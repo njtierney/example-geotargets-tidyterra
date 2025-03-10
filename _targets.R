@@ -31,13 +31,13 @@ tar_plan(
     command = {
       spat_plot <- ggplot() +
       geom_spatraster(data = rastex)
-      ggsave(filename = "geom-spatraster.png",
+      ggsave(filename = "docs/geom-spatraster.png",
              plot = spat_plot)
       # must return the filename as the output
-      "geom-spatraster.png"
+      "docs/geom-spatraster.png"
     }
   ),
 
-  tar_quarto(index, "doc/index.qmd")
+  tar_quarto(index, "docs/index.qmd")
 
 )

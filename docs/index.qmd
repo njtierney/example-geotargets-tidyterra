@@ -60,7 +60,7 @@ ggplot() +
 
 This should read in the plot from file "geom-spatraster.png":
 
-![](../geom-spatraster.png)
+![](geom-spatraster.png)
 
 ## Analysis
 
