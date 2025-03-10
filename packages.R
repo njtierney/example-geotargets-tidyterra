@@ -1,0 +1,11 @@
+## library() calls go here
+library(conflicted)
+library(dotenv)
+library(targets)
+library(tarchetypes)
+library(geotargets)
+library(terra)
+library(ggplot2)
+library(tidyterra)
+library(magick)
+library(quarto)

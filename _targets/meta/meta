@@ -1,0 +1,7 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|5d56399389c395bd|||||||||||||||
+explore|stem|e1d86bfe34901ffd|1f36f73eddd690fd|84c160cac6294595|-1263237259|doc/index.html*doc/index.qmd|t20157.1275257778s|544d160191b9af08|31214|file|local|vector|||7.693||
+plot_rastex_base|stem|b8f751de3693cb45|b71f7ff9fa0aaad5|e71b7ea8c2a2ff15|-2122480250||t20157.1237410396s|a13eb98b330cf8fc|175024|rds|local|vector|||0.055||
+rastex|stem|f981948ec8abcb29|580dd41a898b43b1|2c530c1562a7fbd1|-1384757555||t20157.1237335867s|4e44abfaacb1f0ce|984|format_custom&read=ZnVuY3Rpb24gKHBhdGgpIAp0ZXJyYTo6cmFzdChwYXRoKQ&write=ZnVuY3Rpb24gKG9iamVjdCwgcGF0aCkgCnsKICAgIHRlcnJhOjp3cml0ZVJhc3RlcihvYmplY3QsIGZpbGVuYW1lID0gcGF0aCwgZmlsZXR5cGUgPSAiR1RpZmYiLCAKICAgICAgICBvdmVyd3JpdGUgPSBUUlVFLCBnZGFsID0gTlVMTCkKfQ&marshal=ZnVuY3Rpb24gKG9iamVjdCkgCnRlcnJhOjp3cmFwKG9iamVjdCk&unmarshal=ZnVuY3Rpb24gKG9iamVjdCkgCnRlcnJhOjp1bndyYXAob2JqZWN0KQ&convert=&copy=&repository=|local|list|||0.017||
+rastex_plot|stem|5e535d7d8d920a4f|29ac31479e49a7f5|e71b7ea8c2a2ff15|-1736713952||t20157.1237482425s|fb116a48eff8f681|1055157|rds|local|vector|||0.029||
+saved_spatraster|stem|00ad0449e2c3e580|de816dcb146580c0|e71b7ea8c2a2ff15|1062832685|geom-spatraster.png|t20157.1237383425s|1f589264cf4b3a69|42436|file|local|vector|||0.384||
